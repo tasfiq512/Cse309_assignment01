@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+body
+{
+
+width:100%;
+}
+.logo-iub{
+    width: 16%;
+    margin-top: 15px;
+  
+}
+.title-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#container{
+    margin-left: 10%;
+    margin-top: 100px;
+    width: 900px;
+    margin-bottom: 50px;
+   
+}
+.ins-iub{
+margin: 10px 0 10px 0;
+background-color: antiquewhite;
+padding: 20px;
+border: 3px solid rgb(187, 152, 13);
+}
+
+.ins-iub ol li{
+    font-weight: bold;
+}
+.ins-iub  p span{
+    text-decoration: underline;
+    color: rgb(255, 141, 3);
+}
+.crs-con  ol li{
+    font-weight: bold;
+
+}
+.crs-con{
+    background-color: rgb(240, 192, 130);
+padding: 20px;
+border: 3px solid rgb(135, 109, 6);
+}
+.crs-obj{
+    margin-top: 10px;
+    background-color: antiquewhite;
+
+padding: 20px;
+
+border: 3px solid rgb(187, 152, 13);
+}
+.crs-obj ol li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.cou-bold{
+    
+    font-weight: bold;
+}
+.cos{
+    margin-top: 10px;
+    background-color: antiquewhite;
+
+    padding: 20px;
+    
+    border: 3px solid rgb(187, 152, 13); 
+}
+.list-two{
+    margin-left: 29px;
+    margin-top: 5px;
+}
+.plo-po{
+    margin-top: 10px;
+    background-color: rgb(240, 192, 130);
+
+    padding: 20px;
+    
+    border: 3px solid rgb(135, 109, 6);
+}
+.plo-po ol li{
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  .cos ol li{
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+.nm-six{
+    font-weight: bold;
+}
+.six-num{
+    margin-top: 10px;
+    background-color: rgb(240, 192, 130);
+    
+        padding: 20px;
+    
+        border: 3px solid rgb(135, 109, 6);
+}
+.list-six{
+margin-left: 30px;
+margin-bottom: 15px;
+}
+.small-pera{
+    font-size: 10px;
+    margin-top: 10px;
+    
+}
+.list-nine{
+    margin-left: 30px;
+}
+.seven-num{
+    margin-top: 10px;
+    background-color: antiquewhite;
+
+padding: 20px;
+
+border: 3px solid rgb(187, 152, 13);
+}
+.eight-num{
+    margin-top: 10px;
+    background-color: rgb(240, 192, 130);
+
+padding: 20px;
+
+border: 3px solid rgb(135, 109, 6);
+}
+.nine-num{
+    margin-top: 10px;
+    background-color: antiquewhite;
+
+padding: 20px;
+
+border: 3px solid rgb(187, 152, 13);
+}
+.nine{
+    margin-top: 20px;
+    background-color: rgb(240, 192, 130);
+
+padding: 24px;
+
+border: 3px solid rgb(135, 109, 6);
+}
+.ten-list{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.ele-num{
+    margin-top: 10px;
+    background-color: antiquewhite;
+
+padding: 24px;
+
+border: 3px solid rgb(187, 152, 13);
+}
+.twe-num{
+    margin-top: 10px;
+    background-color: rgb(240, 192, 130);
+
+padding: 24px;
+
+border: 3px solid rgb(135, 109, 6);
+}
+.thir-num{
+    background-color: antiquewhite;
+
+    padding: 24px;
+    
+    border: 3px solid rgb(187, 152, 13); 
+    margin-top: 10px;
+}
+.lst-num{
+    margin-top:10px ;
+    background-color: rgb(240, 192, 130);
+
+    padding: 24px;
+    
+    border: 3px solid rgb(135, 109, 6);
+}
